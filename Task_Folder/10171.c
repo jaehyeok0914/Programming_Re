@@ -6,6 +6,8 @@ int main(void){
     printf(" )  ( \')\n");
     printf("(  /  )\n");
     printf(" \\(__)|");
+
+    return 0;
 }
 
-// 제출 번호 : 87076353
+// 제출 번호 : 87076782
